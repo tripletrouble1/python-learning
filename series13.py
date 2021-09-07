@@ -1,0 +1,19 @@
+n=3
+for i in range(1):
+    print(n)
+    n=n+2
+    print(n)
+    n=n+30
+    print(n)
+    n=n-25
+    print(n)
+    n=n+2
+    print(n)
+    n=n+23
+    print(n)
+    n=n-18
+    print(n)
+    n=n+2
+    print(n)
+    n=n+16
+    print(n)
